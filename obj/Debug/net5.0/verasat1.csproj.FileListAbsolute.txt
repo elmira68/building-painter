@@ -1,0 +1,16 @@
+C:\Users\eli\Desktop\verasat1\bin\Debug\net5.0\verasat1.exe
+C:\Users\eli\Desktop\verasat1\bin\Debug\net5.0\verasat1.deps.json
+C:\Users\eli\Desktop\verasat1\bin\Debug\net5.0\verasat1.runtimeconfig.json
+C:\Users\eli\Desktop\verasat1\bin\Debug\net5.0\verasat1.runtimeconfig.dev.json
+C:\Users\eli\Desktop\verasat1\bin\Debug\net5.0\verasat1.dll
+C:\Users\eli\Desktop\verasat1\bin\Debug\net5.0\ref\verasat1.dll
+C:\Users\eli\Desktop\verasat1\bin\Debug\net5.0\verasat1.pdb
+C:\Users\eli\Desktop\verasat1\obj\Debug\net5.0\verasat1.csproj.AssemblyReference.cache
+C:\Users\eli\Desktop\verasat1\obj\Debug\net5.0\verasat1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eli\Desktop\verasat1\obj\Debug\net5.0\verasat1.AssemblyInfoInputs.cache
+C:\Users\eli\Desktop\verasat1\obj\Debug\net5.0\verasat1.AssemblyInfo.cs
+C:\Users\eli\Desktop\verasat1\obj\Debug\net5.0\verasat1.csproj.CoreCompileInputs.cache
+C:\Users\eli\Desktop\verasat1\obj\Debug\net5.0\verasat1.dll
+C:\Users\eli\Desktop\verasat1\obj\Debug\net5.0\ref\verasat1.dll
+C:\Users\eli\Desktop\verasat1\obj\Debug\net5.0\verasat1.pdb
+C:\Users\eli\Desktop\verasat1\obj\Debug\net5.0\verasat1.genruntimeconfig.cache
